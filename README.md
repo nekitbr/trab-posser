@@ -1,3 +1,6 @@
+## Reference
+References to: https://github.com/docker/awesome-compose
+
 ## Compose sample application
 ### Python/Flask with Nginx proxy and MySQL database
 
